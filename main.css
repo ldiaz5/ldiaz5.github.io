@@ -1,5 +1,12 @@
 html {
   background-color: plum;
+  color: white;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  text-align: center;
+  }
+
+h1 {
+  background-color: plum;
   color: lightBlue;
   font-family:"Comic Sans MS", cursive, sans-serif;
   text-align: center;

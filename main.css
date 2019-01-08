@@ -11,3 +11,10 @@ h1 {
   font-family:'Trebuchet MS', sans-serif;
   text-align: center;
   }
+
+h2 {
+  background-color: plum;
+  color: lightBlue;
+  font-family:'Trebuchet MS', sans-serif;
+  text-align: center;
+  }
